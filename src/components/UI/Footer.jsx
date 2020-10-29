@@ -16,7 +16,7 @@ const useStyles = makeStyles(theme => ({
     backgroundColor: theme.palette.common.blue,
     position: "relative",
     width: "100%",
-    zIndex: 1302
+    zIndex: 1302,
   },
   adornment: {
     verticalAlign: "bottom",
